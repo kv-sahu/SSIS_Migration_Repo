@@ -1,0 +1,10 @@
+{
+	"name": "SH-IR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "self host IR",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": false
+		}
+	}
+}

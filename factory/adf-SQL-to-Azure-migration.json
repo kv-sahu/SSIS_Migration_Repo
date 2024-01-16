@@ -1,0 +1,9 @@
+{
+	"name": "adf-SQL-to-Azure-migration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "889b9483-1b20-4b76-8ac1-c7aae32e8179",
+		"tenantId": "b992e0ea-a258-43bd-8c4d-9be1eefd90a0"
+	}
+}
